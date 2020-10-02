@@ -1,0 +1,3 @@
+[deps]
+GameZero = "9da27670-f782-11e9-1da1-f53579315bfe"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
